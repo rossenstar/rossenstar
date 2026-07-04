@@ -1,93 +1,75 @@
-<h2 align="center">
-  Привет👋 я Rossek2
-</h2>
+<!-- Цвета: #0D1117 (фон), #4A9EFF (акцент) -->
 
+<!-- АВАТАРКА + ИМЯ -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/24/d2/d4/24d2d4445274f6b868223c0fea8b3f38.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #4A9EFF;" alt="avatar" />
+    </td>
+    <td>
+      <h1 align="left">rossenstar</h1>
+      <p align="left">
+        <b>Java Junior</b> · 14 y.o<br/>
+        <img src="https://img.shields.io/badge/Moscow-Russia-4A9EFF?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### 👋 Обо мне
+
+- 🔭 Сейчас работаю над: **Daltonity Recode** — чит-клиент для Minecraft 1.21.4  
+- 💻 Стек: `Java` (junior)  
+- 🌍 Москва  
+- 🎂 14 лет  
+
+---
+
+### 🛠️ Технологии
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rossenstar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=4A9EFF&icon_color=4A9EFF" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossenstar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=4A9EFF" />
+</p>
+
+---
+
+### 📫 Контакты
+
+<p align="left">
+  <a href="https://github.com/rossenstar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://guns.lol/rossenstar">
+    <img src="https://img.shields.io/badge/Сайт-визитка-4A9EFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://t.me/dymade">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/kuwybSxjKQ">
+    <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Discord:</b> rossenstar
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=scrmdnrr &color=0e75b6&style=flat-square" alt="scrmdnrr " />
-</p>
-
----
-
-### 💻 Моя система
-
-<p align="left">
-<a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"></a>
-<a href="#"><img src="https://img.shields.io/badge/Nvidia-gtx?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"></a>
-</p>
-
----
-
-### 👨‍💻 Обо мне
-
-- 🔧 Сейчас работаю над сайтом Minecraft-сервера [Astrum](https://www.astrums.pro)  
-- 🌱 Изучаю: **Java**, **Kotlin**, **Python**  
-- 💼 Мои проекты: [rsek2.ru](https://rsek2.ru) *(в разработке)*  
-- 📬 Контакты: **@rossek2** *([Discord](https://discord.com/users/755126477443301447) & [Telegram](https://t.me/rossek2))*  
-
----
-
-### 📡 Связаться со мной
-
-<p>
-  <a href="https://www.youtube.com/c/rossek2" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="YouTube" style="border-radius: 10px;" />
-  </a>
-  <a href="https://discord.gg/JY7TeUWx" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 10px;" />
-  </a>
-</p>
-
----
-
-### 🧰 Навыки и технологии
-
-#### 🌐 Web-разработка
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
-</p>
-
-#### ⚙️ Бэкенд и инфраструктура
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
-</p>
-
-#### 🧪 Инструменты разработки
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40" alt="Blender"/>
-</p>
-
-#### 🖥 Любимые редакторы и IDE
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" height="40" alt="IntelliJ IDEA"/>
-  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40" alt="PyCharm"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" width="40" height="40" alt="Atom"/>
-  <img src="https://avatars.githubusercontent.com/u/110278553?s=200&v=4" width="40" height="40" alt="Zed Editor"/>
-</p>
-
----
-
-### 📊 GitHub Статистика
-
-<p style="display: flex; gap: 5px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scrmdnrr &layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=scrmdnrr &show_icons=true&theme=tokyonight&locale=ru" alt="GitHub Stats"/>
+  <img src="https://komarev.com/ghpvc/?username=rossenstar&color=4A9EFF&style=flat-square" />
 </p>
