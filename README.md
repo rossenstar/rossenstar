@@ -1,17 +1,18 @@
 <!-- Цвета: #0D1117 (фон), #4A9EFF (акцент) -->
 
-<!-- АВАТАРКА + ИМЯ -->
+<!-- АВАТАРКА + ИМЯ слева | БАННЕР справа -->
 <table align="center">
   <tr>
-    <td align="center">
+    <td width="50%" align="left">
       <img src="https://i.pinimg.com/736x/24/d2/d4/24d2d4445274f6b868223c0fea8b3f38.jpg" width="140" height="140" style="border-radius: 50%; border: 3px solid #4A9EFF;" alt="avatar" />
-    </td>
-    <td>
-      <h1 align="left">rossenstar</h1>
-      <p align="left">
+      <h1>rossenstar</h1>
+      <p>
         <b>Java Junior</b> · 14 y.o<br/>
         <img src="https://img.shields.io/badge/Moscow-Russia-4A9EFF?style=flat-square" />
       </p>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://i.pinimg.com/1200x/87/11/3b/87113b549b546fd83102033f987dd5d7.jpg" width="100%" alt="banner" />
     </td>
   </tr>
 </table>
