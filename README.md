@@ -25,7 +25,7 @@
 
 | 🇷🇺 Русский | 🇬🇧 English |
 |------------|------------|
-| 🔭 Сейчас работаю над: **Daltonity Recode** — чит-клиент для Minecraft 1.21.4 | 🔭 Currently working on: **Daltonity Recode** — a cheat client for Minecraft 1.21.4 |
+| 🔭 Сейчас работаю над: **Daltonity Recode** - чит-клиент для Minecraft 1.21.8| 🔭 Currently working on: **Daltonity Recode** - a cheat client for Minecraft 1.21.8 |
 | 💻 Стек: `Java` (junior) | 💻 Stack: `Java` (junior) |
 | 🌍 Москва | 🌍 Moscow |
 | 🎂 14 лет (2011 г.р.) | 🎂 14 years old (born 2011) |
